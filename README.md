@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there everyone👋
 
 <!--
 **Divyanshi1551/Divyanshi1551** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
